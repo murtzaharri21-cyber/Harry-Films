@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Harry Films",
+      "hasCanvas": false,
+      "bodyTextLen": 3647,
+      "bodyTextHash": "0bd69f9dcf61594fb552136922cbc7c14e4bdfed2f641a491833be7cfa659cdc",
+      "bodyTextPrefix": "Harry Films Home Movies Series Dramas My List SIGN IN MOVIE Proj",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Harry Films",
+      "hasCanvas": false,
+      "bodyTextLen": 2090,
+      "bodyTextHash": "008b8561ad88ae9b840aad7f41922e3f9dbc92ba4a646ad599a2c788bddfe25f",
+      "bodyTextPrefix": "Harry Films MOVIE Project Hail Mary 98% Match2026PG-132h 20m A j",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}

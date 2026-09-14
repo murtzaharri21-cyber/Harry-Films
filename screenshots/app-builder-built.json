@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Velora",
+      "hasCanvas": false,
+      "bodyTextLen": 3627,
+      "bodyTextHash": "54f83c20c44d1b0640b69c0d26c46e1b28075a4861fcdfdca47fb9952b274613",
+      "bodyTextPrefix": "Velora Home Movies Series Dramas My List SIGN IN MOVIE Project H",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Velora",
+      "hasCanvas": false,
+      "bodyTextLen": 2075,
+      "bodyTextHash": "660c08d4aa9113bdb25ed7985c01de25a67381a407b292d7e48453dcb34bd1c2",
+      "bodyTextPrefix": "Velora MOVIE Project Hail Mary 98% Match2026PG-132h 20m A junior",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}

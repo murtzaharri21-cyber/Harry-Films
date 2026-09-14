@@ -1,0 +1,1 @@
+import{m as e}from"./catalog.functions-BG8wZnwY.js";import{r as t}from"./title-card-CHn-LwLf.js";import{c as n}from"./index-ChYFuAdw.js";import{t as r}from"./rows-B4YQ5_Hl.js";var i=e();function a(){let e=n.useLoaderData().filter(e=>e.kind===`drama`);return(0,i.jsx)(t,{children:(0,i.jsx)(r,{heading:`Dramas`,kicker:`Story`,titles:e})})}export{a as component};
